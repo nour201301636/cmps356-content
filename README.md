@@ -1,2 +1,2 @@
-# cmps356-content
-Course content including slides and demos
+# CMPS 356 content
+Course content including slides, assignments and other resources
